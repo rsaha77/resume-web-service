@@ -1,4 +1,4 @@
-package com.ResumeWebService.test;
+package com.ResumeWebService;
 
 import org.junit.Test;
 
